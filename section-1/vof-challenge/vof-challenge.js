@@ -1,5 +1,6 @@
 
 function returns4() {
+  return 4;
 }
 
 function hello() {
